@@ -7,7 +7,7 @@ class ErrorinProduct():
     pass
 #decorador para feature
 # crear tabla temporal con datos temporales
-
+# TEST NO VALIDADOS
 class TestProduct:
 
     def test_max_length_description(self):
